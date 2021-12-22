@@ -1,0 +1,23 @@
+{
+  "name": "testMe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neha-081/testMe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "tme": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Neha-081/testMe/issues"
+  },
+  "homepage": "https://github.com/Neha-081/testMe#readme"
+}
