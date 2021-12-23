@@ -10,7 +10,7 @@ if(value.includes('@')){
  header.innerHTML='looks good'
 }else{
   //must be invalid
-  header.innerHTML='Invalid Email'
+  header.innerHTML='Invalid email'
 }
 });
 
