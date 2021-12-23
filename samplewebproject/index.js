@@ -12,4 +12,5 @@ if(value.includes('@')){
   //must be invalid
   header.innerHTML='Invalid Email'
 }
-})
+});
+
